@@ -1,8 +1,8 @@
 # PYTHON ABL CASE STUDIES
 
 ## Student Details
-- **Student Name:** Koduru Naga Deepika
-- **Roll Number:** 26000091
+- **Student Name:** Chebrolu Jhansi Gowri
+- **Roll Number:** 26000080
 - **Branch:** CSE
 - **Section:** 2
 
